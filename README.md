@@ -56,6 +56,12 @@
 
 ---
 
+##💻 LeetCode Progress
+
+![image](https://github.com/user-attachments/assets/24307197-2f7d-4b7b-ad1c-addc7cdeba07)
+
+---
+
 > _"Every professional was once a beginner."_
 <!--
 **firkraagg/firkraagg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
