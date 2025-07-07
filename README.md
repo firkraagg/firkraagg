@@ -25,6 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
 </p>
 
 ### 🔧 Tools & Platforms:
@@ -56,7 +57,7 @@
 
 ---
 
-##💻 LeetCode Progress
+## 💻 LeetCode Progress
 
 ![image](https://github.com/user-attachments/assets/24307197-2f7d-4b7b-ad1c-addc7cdeba07)
 
