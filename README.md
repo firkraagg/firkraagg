@@ -46,7 +46,7 @@
 
 ## 📫 Contact Me
 
-🔗 LinkedIn: [Daniel Zuzčák](https://www.linkedin.com/in/daniel-zuz%C4%8D%C3%A1k-66a2b9374/)
+🔗 LinkedIn: **[Daniel Zuzčák](https://www.linkedin.com/in/daniel-zuz%C4%8D%C3%A1k-66a2b9374/)**  
 📧 Email: **danzuz009@yahoo.com**  
 
 ---
