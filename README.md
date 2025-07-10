@@ -39,8 +39,8 @@
 ---
 
 ## 🧩 What I'm Working On
-🛠️ Currently developing a **Pathfinding project** using **Dijkstra's Algorithm**  
-➡️ The goal is to visualize efficient pathfinding in grid-based environments.
+
+🛠️ Currently practicing LeetCode problems to improve my algorithm and problem-solving skills.
 
 ---
 
@@ -59,7 +59,7 @@
 
 ## 💻 LeetCode Progress
 
-![image](https://github.com/user-attachments/assets/24307197-2f7d-4b7b-ad1c-addc7cdeba07)
+![image](https://github.com/user-attachments/assets/4111ec2d-7542-4e88-be7c-7a1ce8a06581)
 
 ---
 
