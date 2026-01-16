@@ -1,3 +1,4 @@
+![Header](./header-banner.png)
 # 👋 About Me
 
 🎓 I'm a student at the **Faculty of Management Science and Informatics**, University of Žilina.  
