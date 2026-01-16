@@ -11,18 +11,10 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,html,css,bootstrap,dotnet,wordpress,mysql,rabbitmq,docker,azure,git,idea,visualstudio,vscode,webstorm" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,html,css,js,bootstrap,dotnet,wordpress,mysql,rabbitmq,docker,azure,git,idea,webstorm,visualstudio,vscode&perline=5" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" alt="blazor" width="40" height="40"/>
   </a>
 </p>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" alt="blazor" width="40" height="40"/>
-
-
----
-
-## 🧩 What I'm Working On
-
-🛠️ Currently practicing LeetCode problems to improve my algorithm and problem-solving skills.
 
 ---
 
