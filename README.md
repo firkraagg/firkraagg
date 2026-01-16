@@ -9,6 +9,8 @@
 
 ## 🚀 Technologies I Work With
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 ### 🖥️ Frontend:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" alt="blazor" width="40" height="40"/>
