@@ -60,7 +60,7 @@
 
 ## 💻 LeetCode Progress
 
-![LeetCode Metrics](./metrics_renders/metrics.leetcode.svg)
+![LeetCode Metrics](./metrics.leetcode.svg)
 
 ---
 
