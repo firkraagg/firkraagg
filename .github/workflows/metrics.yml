@@ -1,0 +1,20 @@
+name: Metrics (LeetCode)
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # každý deň 03:00 UTC
+  workflow_dispatch:
+
+jobs:
+  leetcode:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate LeetCode metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.leetcode.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_leetcode: yes
+          plugin_leetcode_user: TVOJ_LEETCODE_LOGIN
+          plugin_leetcode_sections: solved, skills, recent
