@@ -60,7 +60,7 @@
 
 ## 💻 LeetCode Progress
 
-![image](https://github.com/user-attachments/assets/4111ec2d-7542-4e88-be7c-7a1ce8a06581)
+![LeetCode Metrics](./metrics.leetcode.svg)
 
 ---
 
