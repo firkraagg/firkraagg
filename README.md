@@ -2,8 +2,12 @@
 # 👋 About Me
 
 🎓 I'm a student at the **Faculty of Management Science and Informatics**, University of Žilina.  
-🧑‍🎓 I’ve recently earned my **Bachelor's degree** and plan to continue my studies in the Master's program.  
+🧑‍🎓 **Bachelor's graduate**, currently studying Applied Informatics at the Master's level.
 🌐 I'm passionate about **web development** and always eager to learn new technologies.
+
+## 🔗 Connect with me
+[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)][(https://www.linkedin.com/in/TVOJ-LINKEDIN/)](https://www.linkedin.com/in/daniel-zuz%C4%8D%C3%A1k-66a2b9374/)
+[![Email](https://img.icons8.com/fluency/48/mail.png)](mailto:danzuz009@yahoo.com)
 
 ---
 
@@ -12,16 +16,8 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,html,css,js,bootstrap,dotnet,wordpress,mysql,rabbitmq,docker,azure,git,idea,webstorm,visualstudio,vscode&perline=5" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" alt="blazor" width="40" height="40"/>
   </a>
 </p>
-
----
-
-## 📫 Contact Me
-
-🔗 LinkedIn: **[Daniel Zuzčák](https://www.linkedin.com/in/daniel-zuz%C4%8D%C3%A1k-66a2b9374/)**  
-📧 Email: **danzuz009@yahoo.com**  
 
 ---
 
