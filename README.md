@@ -2,7 +2,7 @@
 # 👋 About Me
 
 🎓 I'm a student at the **Faculty of Management Science and Informatics**, University of Žilina.  
-🧑‍🎓 **Bachelor's graduate**, currently studying Applied Informatics at the Master's level.
+🧑‍🎓 **Bachelor's graduate**, currently studying Applied Informatics at the Master's level.  
 🌐 I'm passionate about **web development** and always eager to learn new technologies.
 
 ## 🔗 Connect with me
