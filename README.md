@@ -6,8 +6,9 @@
 🌐 I'm passionate about **web development** and always eager to learn new technologies.
 
 ## 🔗 Connect with me
-[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)][(https://www.linkedin.com/in/TVOJ-LINKEDIN/)](https://www.linkedin.com/in/daniel-zuz%C4%8D%C3%A1k-66a2b9374/)
-[![Email](https://img.icons8.com/fluency/48/mail.png)](mailto:danzuz009@yahoo.com)
+💼 LinkedIn: **[Daniel Zuzčák](https://www.linkedin.com/in/daniel-zuz%C4%8D%C3%A1k-66a2b9374/)**  
+📧 Email: **danzuz009@yahoo.com**  
+
 
 ---
 
