@@ -9,7 +9,7 @@
 
 ## 🚀 Technologies I Work With
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,js,html,css,bootstrap,dotnet,wordpress,mysql,rabbitmq,docker,azure,git,idea,visualstudio,vscode,webstorm)](https://skillicons.dev)
 
 ### 🖥️ Frontend:
 <p align="left">
