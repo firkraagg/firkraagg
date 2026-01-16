@@ -1,4 +1,4 @@
-name: Metrics (LeetCode)
+name: Metrics
 
 on:
   workflow_dispatch:
