@@ -51,11 +51,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats Last Year
 
-![Isocalendar](./metrics.isocalendar.svg)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=firkraagg&show_icons=true&theme=github_dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=firkraagg&layout=compact&theme=github_dark)
+![Isocalendar](./metrics.isocalendar.svg) 
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=firkraagg&show_icons=true&theme=github_dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=firkraagg&layout=compact&theme=github_dark) -->
 
 ---
 
