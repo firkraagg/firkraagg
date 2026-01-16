@@ -14,7 +14,7 @@ jobs:
         with:
           filename: metrics.leetcode.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
+          base: "none"
           plugin_leetcode: yes
           plugin_leetcode_user: firkraagg
           plugin_leetcode_sections: solved, skills, recent
